@@ -1,6 +1,6 @@
 ### Hi, I'm Oscar 👋
 
-Software Engineer · Eindhoven, NL · 🟢 Seeking a Software Engineering internship (Sep 2026)
+Software Engineer · Eindhoven, NL · 🗺️ Seeking a Software Engineering internship (Sep 2026)
 
 2nd-year HBO-ICT student at Fontys University of Applied Sciences. I design and engineer robust software
 systems, from microcontrollers to AI-powered apps and cloud-hosted industrial monitoring platforms — bridging
